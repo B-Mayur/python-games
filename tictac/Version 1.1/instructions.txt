@@ -1,0 +1,37 @@
+GAME INSTRUCTIONS:
+1. The game is intended for two users only.
+2. Initially each user will be asked for the marker they wish to use throughout the game.
+3. Users will also be asked to make choice of who will play first.
+
+IMPORTANT INSTRUCTIONS:
+4. Following board design is used throughout the game.
+
+				    1   2   3
+
+				A     |   |   
+				   ---+---+---
+				B     |   |   
+				   ---+---+---
+				C     |   |   
+
+CO-ORDINATES: A1, A2, A3, B1, B2, B3, C1, C2, C3
+
+5. User can place Marker in a desired cell by providing it's coordinate.
+6. User can not provide coordinates other than in the set mentioned above.
+7. For example: bottom-right cell has coordinate C3
+8. Next, other user will do the same until either of the user wins or no cells are empty.
+9. Once the user get's his 3 markers in straight line, he/she wins. 
+
+For example:
+				    1   2   3
+
+				A   o | x |   
+				   ---+---+---
+				B     | o |   
+				   ---+---+---
+				C     | x | o 
+
+In this case, the user with marker 'o' is clearly the Winner.
+
+"I have compiled these instructions, you can find more details @Wikipedia"
+Have fun..!

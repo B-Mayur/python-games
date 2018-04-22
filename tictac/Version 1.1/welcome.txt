@@ -1,0 +1,8 @@
+Hi,
+I'm Mayur B. and I have created this game as a first milestone project of Udemy's python:zero to hero course.
+Developed under the guidance of instructor Mr. Jose Portilla.
+I have tried to implement functionalities as much as I can, and still if you want something new in the game let me know.
+Contact: mayur6578@gmail.com
+Please feel free to contact and give your feedback.
+
+Enjoy the game. :)
